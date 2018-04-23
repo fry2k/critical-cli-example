@@ -1,0 +1,17 @@
+{
+  "name": "criticalcss-cli-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-critical": "bin/build-critical.sh",
+    "build-criticalcss": "bin/build-criticalcss.sh"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "critical": "^1.2.2",
+    "criticalcss": "^2.1.0",
+    "uglifycss": "0.0.29"
+  }
+}
